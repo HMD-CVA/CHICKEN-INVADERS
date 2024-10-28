@@ -1,0 +1,82 @@
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\Hoang Hai\source\repos\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+C:\Users\Administrator\source\repos\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\Administrator\source\repos\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\Administrator\source\repos\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\Administrator\source\repos\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+C:\Users\msi\Desktop\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\msi\Desktop\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\msi\Desktop\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\msi\Desktop\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+D:\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+D:\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+D:\ChikenFIGHT\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+C:\Users\msi\Documents\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\msi\Documents\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\msi\Documents\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\msi\Documents\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+E:\23-10-6h\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+E:\23-10-6h\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+E:\23-10-6h\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+E:\23-10-6h\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
+D:\ChikenFIGHT\ChikenFIGHT\obj\Debug\ChikenFIGHT.Huong_Dan_Choi.resources
+C:\Users\msi\Downloads\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe.config
+C:\Users\msi\Downloads\ChikenFIGHT\bin\Debug\ChikenFIGHT.exe
+C:\Users\msi\Downloads\ChikenFIGHT\bin\Debug\ChikenFIGHT.pdb
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.Form1.resources
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.Huong_Dan_Choi.resources
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.Properties.Resources.resources
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.GenerateResource.cache
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.exe
+C:\Users\msi\Downloads\ChikenFIGHT\obj\Debug\ChikenFIGHT.pdb
